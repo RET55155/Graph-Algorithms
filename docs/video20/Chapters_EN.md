@@ -1,0 +1,12 @@
+- **00:00** Choose the question
+- **01:17** Disjoint-set union
+- **03:49** Forest or route?
+- **04:30** Kruskal
+- **06:31** Prim
+- **08:20** Depth-first search
+- **10:20** Kosaraju SCC
+- **13:00** Topological order
+- **14:30** DAG shortest paths
+- **17:06** Reconstruct a route
+- **17:49** Test and measure
+- **19:15** Your assignment
